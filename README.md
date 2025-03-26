@@ -1,8 +1,6 @@
-🩻 Enhancing Medical Images for Better Visibility
-🔬 Use Case: Doctors often analyze X-rays, CT scans, MRIs, and ultrasound images on digital screens.
-
-✨ How It Helps:
-✅ this code already enhances image intensity.
-🧐 This can help highlight fine details in medical images, making abnormalities (e.g., tumors, fractures, infections) more visible.
-🎛️ Could be extended with additional contrast enhancement or edge detection to improve clarity.
-🚀🧠
+🛠️ Features of This Code
+✅ Captures a specific region (medical image) on the screen.
+✅ Enhances visibility using CLAHE (better contrast for X-rays, MRIs, CT scans).
+✅ Displays both original and enhanced versions for side-by-side comparison.
+✅ Allows user to select the medical image manually using mouse position.
+✅ Runs in real-time until the user presses 'q' to exit.
